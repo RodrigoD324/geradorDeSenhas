@@ -5,7 +5,7 @@ Projeto com intuito de gerar senhas aleatórias, feito com JS, HTML e CSS!
 * Feito com base neste vídeo: https://www.youtube.com/watch?v=i6t2jaRxos4
 
 <div align="center">
-  ***atualmente com problema na função de copiar senha***
+  ***atualmente com problema na função de copiar senha no navegador OPERA GX***
 </div>
 
 <br>
